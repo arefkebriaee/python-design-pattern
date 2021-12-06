@@ -1,10 +1,13 @@
 '''
-    Car => Benz, Bmw => suv, coupe 
-        benz suv => gla, glc
-        bmw suv  => x1 x3
-        -----------------------
-        benz coupe => cls, e-class
-        bmw coupe  => z4, m1
+    Singleton Design Pattern
+        type: Creational
+        
+        Car => Benz, Bmw => suv, coupe 
+            benz suv => gla, glc
+            bmw suv  => x1 x3
+            -----------------------
+            benz coupe => cls, e-class
+            bmw coupe  => z4, m1
 '''
 
 from abc import ABC, abstractmethod

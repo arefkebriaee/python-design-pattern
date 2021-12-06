@@ -1,10 +1,13 @@
 '''
-    Car => Benz, Bmw => suv, coupe 
-        benz suv => gla
-        bmw suv  => x1
-        -----------------------
-        benz coupe => cls
-        bmw coupe  => z4
+    Abstract Factory Design Pattern
+        type: Creational
+        
+        Car => Benz, Bmw => suv, coupe 
+            benz suv => gla
+            bmw suv  => x1
+            -----------------------
+            benz coupe => cls
+            bmw coupe  => z4
 '''
 
 from abc import ABC, abstractmethod

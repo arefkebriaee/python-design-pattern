@@ -1,5 +1,6 @@
 '''
     Facade Design Pattern
+        type: Structural
 '''
 
 

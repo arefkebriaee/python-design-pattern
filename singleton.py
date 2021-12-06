@@ -1,3 +1,8 @@
+'''
+    Singleton Design Pattern
+        type: Creational
+'''
+
 
 class singeltone(type):
     _instance = None

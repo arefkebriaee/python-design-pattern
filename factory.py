@@ -1,6 +1,7 @@
 '''
-factory design pattern:
-    3 component: creator, product, client
+    Factory Design Pattern:
+        type: Creational
+        3 component: creator, product, client
 '''
 
 from abc import ABC, abstractmethod

@@ -1,5 +1,6 @@
 '''
     Decorator Design Pattern
+        type: Structural
 '''
 
 # -----------------------------------------

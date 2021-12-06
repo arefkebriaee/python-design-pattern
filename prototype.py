@@ -1,6 +1,6 @@
 '''
-    Prototype design pattern
-        type: creational
+    Prototype Design Pattern
+        type: Creational
             make a copy from an object
 '''
 

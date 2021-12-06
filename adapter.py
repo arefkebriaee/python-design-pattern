@@ -1,6 +1,6 @@
 '''
-    Adapter design pattern
-        type: structural
+    Adapter Design Pattern
+        type: Structural
             main part => adaptee, adapter, client
 '''
 

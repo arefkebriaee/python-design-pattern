@@ -1,5 +1,6 @@
 '''
     Proxy Design Pattern
+        type: Structural
 '''
 
 

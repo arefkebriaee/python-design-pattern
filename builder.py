@@ -1,6 +1,6 @@
 '''
-    Builder design pattern
-        type: creational
+    Builder Design Pattern
+        type: Creational
 '''
 
 from abc import ABC, abstractmethod
